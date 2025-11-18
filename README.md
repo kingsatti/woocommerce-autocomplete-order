@@ -10,3 +10,4 @@ User Guide
   Admin Panel
 At the Admin Panel, go to plugin > Installed Plugin > Qaisar Satti Autocomplete Order. and activate the plugin
 
+https://store.qaisarsatti.com/download/free-woocommerce-autocomplete-order-plugin/
